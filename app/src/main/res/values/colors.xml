@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_background">#dfeaf1</color>
+    <color name="udacity_orange">#F08C35</color>
+    <color name="red_button">#CC003D</color>
+    <color name="title_color">#333</color>
+    <color name="primary">#3F51B5</color>
+    <color name="primary_dark">#1A237E</color>
+    <color name="accent">#C5CAE9</color>
+    <color name="list_item_text">#333</color>
+</resources>
